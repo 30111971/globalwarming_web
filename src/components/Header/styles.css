@@ -1,0 +1,111 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+header form .fa-search { 
+  position: relative;
+  top: 30px;
+  left: 15px;
+  font-size: 17px;
+  z-index: 10;
+}
+
+header form .fa-search:hover {
+    cursor: pointer;
+    font-size: 20px;       
+}
+
+header {
+    width: 100%;
+    height: 48px;
+    background-color: black;
+    position: fixed;
+    display: flex;
+    z-index: 1000;
+}
+
+header h1 {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: normal;
+    display: inline-block;
+}
+
+header div {
+    background-color: black;
+    width: 25%;
+    height: 100%;
+    max-height: 48px;
+    display: flex;
+    align-items: center;
+}
+
+header form {
+    text-decoration: none;
+    position: fixed;
+    left: 380px;    
+    width: 85%;
+    align-self: center; 
+    bottom: 94%;   
+}
+
+header .animacao {
+    height: 16px;
+    width: 20px;
+    left: -20px;
+    background: white;
+    position: absolute;
+    border-radius: 2px;
+    transition: transform .2s ease-in-out;
+}
+
+.home {
+    margin: 0px 8px;
+    height: 30px;
+    width: 30px;
+}
+
+.menu-icon {
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    transition: background .2s ease-in-out, color .2s ease-in-out, border-radius .2s;
+}
+
+.menu-icon:hover {
+    background: #FFF;
+    color: black;
+    border-radius: 30%;
+}
+
+.home:hover + .animacao {
+    transform: translateX(4px);
+}
+
+.link {
+    text-decoration: none;
+    position: absolute;
+    right: 12px;
+    align-self: center;
+}
+
+.link2{
+    text-decoration: none;
+    position: absolute;
+    right: 210px;
+    align-self: center;
+}
+
+.searchBar {
+    position: relative;
+    display: block;
+    text-indent: 35px;
+    background: #fff;
+    border-radius: 31px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+    line-height: 1.2;    
+    outline: none;
+    border: none;    
+}
+
