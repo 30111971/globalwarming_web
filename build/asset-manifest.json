@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bba00fa8.chunk.css",
+    "main.js": "/static/js/main.8381ee15.chunk.js",
+    "main.js.map": "/static/js/main.8381ee15.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c138f6f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c138f6f.js.map",
+    "static/js/2.1222af0b.chunk.js": "/static/js/2.1222af0b.chunk.js",
+    "static/js/2.1222af0b.chunk.js.map": "/static/js/2.1222af0b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f3f4f6503290beebc3e0e75cc3e8d536.js": "/precache-manifest.f3f4f6503290beebc3e0e75cc3e8d536.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bba00fa8.chunk.css.map": "/static/css/main.bba00fa8.chunk.css.map",
+    "static/js/2.1222af0b.chunk.js.LICENSE.txt": "/static/js/2.1222af0b.chunk.js.LICENSE.txt",
+    "static/media/historicalCO2Level.png": "/static/media/historicalCO2Level.714f03e9.png",
+    "static/media/petroliferas.png": "/static/media/petroliferas.f83dac48.png",
+    "static/media/seaLevelTemp.png": "/static/media/seaLevelTemp.504b9587.png",
+    "static/media/tabela.png": "/static/media/tabela.6da4830c.png",
+    "static/media/tempCO2Graph.png": "/static/media/tempCO2Graph.aa754170.png",
+    "static/media/temperatureOfThePlanet.png": "/static/media/temperatureOfThePlanet.b0c152c0.png",
+    "static/media/worldPopulation.png": "/static/media/worldPopulation.f031e797.png",
+    "static/media/worldPopvsCO2.png": "/static/media/worldPopvsCO2.5c2d2426.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c138f6f.js",
+    "static/js/2.1222af0b.chunk.js",
+    "static/css/main.bba00fa8.chunk.css",
+    "static/js/main.8381ee15.chunk.js"
+  ]
+}
